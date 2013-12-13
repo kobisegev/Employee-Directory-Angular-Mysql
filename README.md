@@ -1,11 +1,11 @@
 angular-nodejs-mysql
 ====================
-MYSQL backend adpdation to <a href="https://github.com/ccoenraets/angular-directory">angular directory </a> by 
+MYSQL backend adpdation to <a href="https://github.com/ccoenraets/angular-directory">Employee Ditectory angular</a> by 
 Christophe Coenraets.
 
 
 Setup
-======
+-----
 1) import directory dump (under server).<br>
 2) add database user & pwd in server/routes/employee.js<br> 
 2) in server folder type "npm install"  //will install mysql required componenents for node<br>
