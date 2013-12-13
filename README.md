@@ -1,5 +1,5 @@
 angular-nodejs-mysql
 ====================
-MYSQL backend adpdation to angulardirectory by ____.
+MYSQL backend adpdation to <a href="my">angulardirectory </a by ____.
 
 Setup
