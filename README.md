@@ -1,5 +1,6 @@
-angular-nodejs-mysql
-====================
+
+Employee directory With angular & mysql
+=======================================
 MYSQL backend adpdation to <a href="https://github.com/ccoenraets/angular-directory">Employee Ditectory angular</a> by 
 Christophe Coenraets.
 
