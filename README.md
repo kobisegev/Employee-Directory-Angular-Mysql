@@ -5,6 +5,7 @@ Christophe Coenraets.
 
 
 Setup
+
 1) import directory dump (under server).<br>
 2) add database user & pwd in server/routes/employee.js<br> 
 2) in server folder type "npm install"  //will install mysql required componenents for node<br>
